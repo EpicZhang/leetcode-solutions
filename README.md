@@ -1,6 +1,3 @@
-# leetcode-solutions
-A collection of my LeetCode solutions and notes on data stuctures and algorithms.
-
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
