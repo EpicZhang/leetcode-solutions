@@ -10,6 +10,8 @@
 #             runningSum.append(the_sum)
 #         return runningSum
 
+# Time complexity: O(n)
+# Space complexity: O(n)
 class Solution:
     def runningSum(self, nums: List[int]) -> List[int]:
         runningSum = []
