@@ -1,3 +1,6 @@
+# Time Complexity: O(n)
+# Space Complexity: O(n)
+
 class Solution:
     def maxProduct(self, nums: List[int]) -> int:
         nums = sorted(nums)
