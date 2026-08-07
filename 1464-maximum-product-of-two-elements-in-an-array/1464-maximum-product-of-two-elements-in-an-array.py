@@ -1,11 +1,13 @@
-# Time Complexity: O(n log n)
+# Time Complexity: O(nlogn)
 # Space Complexity: O(n)
-
 # class Solution:
 #     def maxProduct(self, nums: List[int]) -> int:
 #         nums = sorted(nums)
 #         return ((nums[-1] - 1) * (nums[-2] - 1))
 
+
+# Time Complexity: O(n)
+# Space Complexity: O(1)
 class Solution:
     def maxProduct(self, nums: List[int]) -> int:
         largest = second = 0
