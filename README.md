@@ -4,6 +4,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/EpicZhang/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
+| [0027-remove-element](https://github.com/EpicZhang/leetcode-solutions/tree/main/0027-remove-element/) | Easy |
 | [0724-find-pivot-index](https://github.com/EpicZhang/leetcode-solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/EpicZhang/leetcode-solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/EpicZhang/leetcode-solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -29,4 +30,8 @@
 | ------- | ------- |
 | [0724-find-pivot-index](https://github.com/EpicZhang/leetcode-solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/EpicZhang/leetcode-solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0027-remove-element](https://github.com/EpicZhang/leetcode-solutions/tree/main/0027-remove-element/) | Easy |
 <!---LeetCode Topics End-->
